@@ -1,0 +1,1 @@
+export { GeometricBackground } from './GeometricBackground'; 
