@@ -35,7 +35,7 @@ export default function Home() {
       variants={pageVariants}
     >
       <Hero />
-      <Projects />
+      <Projects setBgColor={setBgColor} />
       <Skills />
       <Certifications />
       <Contact />
