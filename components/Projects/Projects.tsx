@@ -9,7 +9,7 @@ const projects: Project[] = [
     techStack: ["Python", "TensorFlow", "OpenCV"],
     color: "#f0f0f0",
     links: {
-      github: "#", // Add your GitHub link here
+      github: "https://github.com/chethanachari1/", // Add your GitHub link here
     }
   },
   {
@@ -18,7 +18,7 @@ const projects: Project[] = [
     techStack: ["Flutter", "Firebase", "Figma"],
     color: "#e0e0e0",
     links: {
-      github: "#", // Add your GitHub link here
+      github: "https://github.com/chethanachari1/", // Add your GitHub link here
       live: "#" // Add your live demo link if available
     }
   },
@@ -28,7 +28,7 @@ const projects: Project[] = [
     techStack: ["Arduino IDE"],
     color: "#d0d0d0",
     links: {
-      github: "#", // Add your GitHub link here
+      github: "https://github.com/chethanachari1/", // Add your GitHub link here
       demo: "#" // Add demo video link if available
     }
   },
